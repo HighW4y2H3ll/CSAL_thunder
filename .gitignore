@@ -48,6 +48,8 @@ ipch/
 *~
 
 # ignore bin test directory
+build/*-arm64/
+demos/*-arm64/
 bin/
 *.log
 *.lastbuildstate
