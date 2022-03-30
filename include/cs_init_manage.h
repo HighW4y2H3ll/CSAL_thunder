@@ -59,7 +59,7 @@ int cs_checkpoint(void);
  *  NN - minor version number.
  *
  */
-unsigned short cs_library_version();
+unsigned short cs_library_version(void);
 
 
 /** @} */
